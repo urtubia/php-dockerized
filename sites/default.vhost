@@ -1,5 +1,6 @@
 server {
   server_name default;
+  listen 8888;
   root        /var/www/default;
   index       index.php;
 
